@@ -15,7 +15,7 @@
 ---
 
 ## Model
-Our model is located in the `/model` folder. The main network structure is placed in "GW_SWKV. py".
+Our model is located in the `/model` folder. The main network structure is placed in "GW_VRWKV. py".
 
 ---
 
