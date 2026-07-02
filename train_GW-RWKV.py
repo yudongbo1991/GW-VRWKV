@@ -26,7 +26,7 @@ from utils.evaluation import Evaluator
 from utils.HSICommonUtils import ImageStretching
 from utils.setup_logger import setup_logger
 from utils.visual_predict import visualize_predict
-from model.GW_RWKV import GWRWKV
+from model.GW_VRWKV import GWRWKV
 from calflops import calculate_flops
 
 torch.autograd.set_detect_anomaly(True)
