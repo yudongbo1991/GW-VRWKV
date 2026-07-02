@@ -22,7 +22,7 @@ Our model is located in the `/model` folder. The main network structure is place
 ## Training
 1. During the training phase, it is necessary to run the train script and import the corresponding configuration file. Taking the Hanchuan dataset as an example, executing
 
-"python -u train_GW-RWKV.py --config configs_619abla/sw_hanchuan_full.yaml" 
+"python -u train_GW-VRWKV.py --config configs_619abla/sw_hanchuan_full.yaml" 
 
 can start training, and specific parameters can refer to the corresponding YAML file under ``configs_619abla".
 
